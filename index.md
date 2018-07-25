@@ -7,6 +7,8 @@
   
 [ZYX](http://zyx-app.com/)  
 [Video demo](https://vimeo.com/52535827)  
+  
+[Text App Demo](https://drive.google.com/drive/u/0/folders/1m536Ehs45M0X-MCIhOoGUq1-IWRfJOeM)
 
 ## Welcome to GitHub Pages
 

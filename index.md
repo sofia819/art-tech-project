@@ -8,6 +8,7 @@
 [ZYX](http://zyx-app.com/)  
 [Video demo](https://vimeo.com/52535827)  
   
+[Text App Code](https://bitbucket.org/sofia819/randomtext/src/9008ee5175bd0e4018423e4ffb9a1a34ab950a16/app/src/main/java/edu/wit/mobileapp/canttouchthis/MainActivity.java?at=master&fileviewer=file-view-default)  
 [Text App Demo](https://drive.google.com/file/d/1H8T1ZNAbGqA_nq3QFLpTWpQZp0W5MK5K/view?usp=sharing)
 
 ## Welcome to GitHub Pages

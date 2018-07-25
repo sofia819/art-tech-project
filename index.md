@@ -1,3 +1,7 @@
+[Original: asdfg.html](sofia819.github.io/asdfg.html)
+[No scroll: asdfg1.html](sofia819.github.io/asdfg%201.html)
+[Neither: asdfg2.html](sofia819.github.io/asdfg%202.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sofia819/sofia819.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

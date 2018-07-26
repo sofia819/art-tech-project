@@ -1,7 +1,7 @@
 ## asdfg Demo
 
 [asdfg](http://asdfg.jodi.org/)  
-[Source Code: asdfg](https://github.com/sofia819/sofia819.github.io/blob/master/index.md)  
+[Source Code: asdfg](https://github.com/sofia819/sofia819.github.io)  
 [Demo: asdfg.html](https://sofia819.github.io/asdfg.html)  
 [Demo: asdfg1.html](https://sofia819.github.io/asdfg%201.html)  
 [Demo: asdfg2.html](https://sofia819.github.io/asdfg%202.html)  

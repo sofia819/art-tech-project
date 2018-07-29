@@ -1,5 +1,6 @@
-## asdfg Demo
-
+## Links for Art & Tech Project  
+#### [Main Folder](https://drive.google.com/drive/folders/1-585Uv3jKsqkotlKO1R7sTsXnENJcsAn)  
+  
 [asdfg](http://asdfg.jodi.org/)  
 [Source Code: asdfg](https://github.com/sofia819/sofia819.github.io)  
 [Demo: asdfg.html](https://sofia819.github.io/asdfg.html)  
@@ -12,6 +13,7 @@
 [Source Code: Text App](https://bitbucket.org/sofia819/randomtext/src/9008ee5175bd0e4018423e4ffb9a1a34ab950a16/app/src/main/java/edu/wit/mobileapp/canttouchthis/MainActivity.java?at=master&fileviewer=file-view-default)  
 [Demo: Text App](https://drive.google.com/file/d/1H8T1ZNAbGqA_nq3QFLpTWpQZp0W5MK5K/view?usp=sharing)
 
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sofia819/sofia819.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -49,3 +51,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
